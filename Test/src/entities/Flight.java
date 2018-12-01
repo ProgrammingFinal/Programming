@@ -6,8 +6,10 @@ public class Flight {
 	
 	int numOfPassengers;
 	int flightNum;
+	//scheduled date and time, not current
 	String date;
 	String time;
+	
 	String departingCity;
 	String arrivingCity;
 	boolean reserve;
